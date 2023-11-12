@@ -3,7 +3,7 @@ from prettytable import PrettyTable
 from colorama import Fore, Style
 
 def port_scan(target_host, target_ports):
-    print(f"[+] Scanning ports on {target_host}...\n")
+    print(f"[+] Scanning ports on: {target_host}\n")
 
     table = PrettyTable()
     table.field_names = [Fore.BLUE + "Port", Fore.BLUE + "Status" + Style.RESET_ALL]
