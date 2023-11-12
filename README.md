@@ -23,7 +23,7 @@ This port scanner is designed to quickly check the status of specified ports on 
 - [Python](https://www.python.org/) (version 3.x)
 - [pip](https://pip.pypa.io/) (Python package installer)
 
-# Options ⚙️
+## Options ⚙️
 - Target Host: Enter the target host IP address.
 - Target Ports: Enter the target ports to be scanned (comma-separated).
 - Colored Output: Green for open ports, red for closed ports.
