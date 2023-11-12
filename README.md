@@ -20,7 +20,7 @@ This port scanner is designed to quickly check the status of specified ports on 
 
 ### Prerequisites 🛠️
 
-- [Python](https://www.python.org/) (version 3.x)
+- [Python](https://www.python.org/) (version 3.12 or 3.11)
 - [pip](https://pip.pypa.io/) (Python package installer)
 
 ## Options ⚙️
